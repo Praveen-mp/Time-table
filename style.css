@@ -5,8 +5,7 @@
     color: black;
 }
 body{
-    background: rgb(123,122,139);
-    background: linear-gradient(90deg, rgba(123,122,139,1) 13%, rgba(41,152,214,0.989233193277311) 43%, rgba(53,139,157,1) 96%);
+   background-color: cornsilk;
 }
 .show{
     background-color: cornsilk;
